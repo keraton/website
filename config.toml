@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://keraton.github.io"
 languageCode = "en"
 title = "Blog | Keraton"
 theme = "Hucore"
